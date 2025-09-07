@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://GrokPromo.github.io/grok-website/sitemap.xml
